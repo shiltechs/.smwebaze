@@ -1,0 +1,249 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Shieldson Mwebaze
+Shieldson Mwebaze
+Network Engineer
+
+Show Contacts
+
+Email
+mwebzshieldon@gmail.com
+
+Phone
++256-784619056
+
+Birthday
+April 14, 1998
+
+Location
+Kampala, Uganda, Africa
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am a skilled Network Engineer with expertise in designing, implementing, and maintaining secure, efficient, and scalable network infrastructures. With a strong foundation in routing, switching, and network security, 
+I specialize in optimizing system performance, ensuring reliability, and troubleshooting complex issues. My experience spans enterprise networks, data centers, and cloud-based solutions, and I am passionate about leveraging cutting-edge technologies to meet business needs.
+Core Skills, Network architecture and design, Routing and switching protocols (e.g., BGP, OSPF, EIGRP), Firewall and VPN configurations, Network performance optimization, Cloud networking (e.g., AWS, Azure), Cybersecurity best practices and Server Administration
+My Job as a proffessional is to ensure, safe and secure network space, both online an offline. Your data and privacy is safe with mentered network access.
+
+I have alsI am a skilled Network Engineer with expertise in designing, implementing, and maintaining secure, efficient, and scalable network infrastructures. With a strong foundation in routing, switching, and network security, 
+I specialize in optimizing system performance, ensuring reliability, and troubleshooting complex issues. My experience spans enterprise networks, data centers, and cloud-based solutions, and I am passionate about leveraging cutting-edge technologies to meet business needs.
+Core Skills, Network architecture and design, Routing and switching protocols (e.g., BGP, OSPF, EIGRP), Firewall and VPN configurations, Network performance optimization, Cloud networking (e.g., AWS, Azure), Cybersecurity best practices and Server Administration
+
+I have also given programming time, where I have been able to secure a portifolio like mine. I build simple interractive webpage for both startup companies and also host them with a free hosting rate for one month.
+Programming skills Obtained:- HTML5,CSS3,Jscript, Bootsatrap, Python. These have enabled to be the most profiecient I.T personel for your organisation.
+
+## service
+
+What i'm doing
+
+alt = Network icon
+Computer networks design,
+The most modern and high-quality design made at a professional level.
+
+alt = Network Installation & Configuaration. icon
+Network Installation & Configuaration.
+High-quality setup of network at the professional level.
+
+alt = Security Implemetation. icon
+Firewall Configuaration
+Professional setup of firewall for the whole network.To secure your existance on the inernet. 
+
+alt = Programming.icon
+Programming, Development..
+I make high-quality website interfaces with Javascript and CSS, Html, Just Like this. Am also experineced word press developer...
+
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Shieldson was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Shieldson was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Shieldson was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Shieldson was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Uganda Technology And Management University
+2018 — 2021
+I enjoyed my education at this level, where i was expossed to the most I.T Industry. I.T cocenpts mastered at this level gave me a great startup for the for this career.
+
+A,Level for senior Years,
+2015 — 2016
+At this level our focus was to score High for the University ponts which I achived..
+
+Kitante High School,
+2012 — 2014
+High school fresher for senior academics started at Kitante Class of 2012, then later completed at MSSK.
+
+Experience
+
+Elearning Officer/ Support Technician 
+2023 — Present
+I managed to secure a vacancy at UTAMU after having Interned with the university for a number of months. In 2023 i was appreciated by my work ability and appinted a and elearning systems Officer.
+
+
+Network Administrator
+2021 — 2022
+I secured a placement at webinfornet, This placement lifted my passion for networks, loved how backups where automatically running, and this derived my perssion for programming.I learnt alot from this angle,
+
+Computer Technician
+2020 — 2021
+All the technical skills acquired in the years have been laid by the this amaizing company, Angels of Haven Digital services, The persons and environments at this place was very apealing. This prompted me a thought to also start my own brand whic is currently running as Shilcom Technologies.
+
+My skills
+
+Network network & Configuaration
+80%
+Website 
+70%
+Graphics
+90%
+WordPress
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Network Installation & Configuaration.
+
+Select category
+All
+Web design
+Applications
+Network Installation & Configuaration.
+
+alt = finance
+Finance
+Network Installation & Configuaration.
+
+alt = orizon
+Orizon
+Network Installation & Configuaration.
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Network Installation & Configuaration.
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Network Installation & Configuaration.
+
+
+
+# blog
+
+Blog
+
+alt = CNASS in 2022
+network
+Fab 23, 2022
+network conferences in 2022
+This was held by renu to survey network challenges by at campus level.
+
+alt = WordPress designer
+network
+Fab 23, 2022
+WordPress designer
+This was organised by Edutech specifically on wordpress. usgae and abilities..
+
+alt = network digest #80
+network
+Fab 23, 2022
+network digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+network
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+network
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = network digest #79
+network
+Fab 23, 2022
+network Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
